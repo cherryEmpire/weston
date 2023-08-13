@@ -1,5 +1,5 @@
 # setup env
-
+`env: ubuntu 22.04`
 1. clone source code
     ```shell
     git clone https://gitlab.freedesktop.org/wayland/wayland.git wayland
